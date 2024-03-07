@@ -471,7 +471,7 @@ body.dark .loader_line:after{
 	text-transform: uppercase;
 	font-weight: 600;
 	display: inline-block;
-	background-color: #ff451b;
+	background-color: #32a8b2;
 	padding: 14px 50px;
 	border-radius: 10px;
 	white-space: nowrap;
@@ -483,7 +483,7 @@ body.dark .loader_line:after{
 	        transition: all .3s ease;
 }
 .iknow_tm_button a:hover{
-	background-color: #ffb324;
+	background-color: #32a8b2;
 }
 .iknow_tm_topbar .trigger_wrapper{
 	position: relative;
@@ -577,7 +577,7 @@ body.dark .loader_line:after{
 }
 .iknow_tm_hero .subtitle{
 	display: inline-block;
-	color: #ff451b;
+	color: #32a8b2;
 	font-size: 30px;
 	font-weight: 700;
 	margin-bottom: 5px;
@@ -609,7 +609,7 @@ body.dark .loader_line:after{
 .iknow_tm_video .circle{
 	width: 72px;
 	height: 72px;
-	background-color: #ffb324;
+	background-color: #32a8b2;
 	border-radius: 100%;
 	position: relative;
 }
@@ -693,7 +693,7 @@ body.dark .loader_line:after{
 	bottom: 24px;
 	left: 24px;
 	right:24px;
-	background-color: #ffb324;
+	background-color: #32a8b2;
 	z-index: -1;
 	transform: rotate(-50deg);
 	animation: animeRotate 13s linear 0s infinite alternate;
@@ -740,7 +740,7 @@ body.dark .loader_line:after{
 .iknow_tm_hero .main_menu ul li .svg{
 	width: 40px;
 	height: 40px;
-	color: #ff451b;
+	color: #32a8b2;
 	display: block;
 	
 	-webkit-transition: all .3s ease;
@@ -777,7 +777,7 @@ body.dark .loader_line:after{
 	color: #fff;
 }
 .iknow_tm_hero .main_menu ul li.active{
-	background-color: #ff451b;
+	background-color: #32a8b2;
 }
 
 /*---------------------------------------------------*/
@@ -1095,7 +1095,7 @@ body.dark .loader_line:after{
 }
 .rounded_shapes .one .cls-1{
 	stroke: inherit;
-	fill: #ff451b;
+	fill: #32a8b2;
 }
 .rounded_shapes .one .svg{
 	width: 20px;
@@ -1420,7 +1420,7 @@ body.dark .loader_line:after{
 	min-width: 47%;
 	left: -55px;
 	margin-top: 55px;
-	background-color: #ff451b;
+	background-color: #32a8b2;
 	padding: 36px 40px 35px 40px;
 	z-index: 1;
 	border-radius: 15px;
@@ -1466,7 +1466,7 @@ body.dark .loader_line:after{
 }
 .iknow_tm_main_title span{
 	font-size: 21px;
-	color: #ff451b;
+	color: #32a8b2;
 	font-weight: 700;
 	display: inline-block;
 	margin-bottom: 6px;
@@ -1552,7 +1552,7 @@ body.dark .loader_line:after{
 	width: 24px;
 	height: 24px;
 	border-radius: 100%;
-	border: 3px solid #ff451b;
+	border: 3px solid #32a8b2;
 }
 .iknow_tm_resume_title .shape:before{
 	position: absolute;
@@ -1560,7 +1560,7 @@ body.dark .loader_line:after{
 	width: 8px;
 	height: 8px;
 	border-radius: 100%;
-	background-color: #ff451b;
+	background-color: #32a8b2;
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%,-50%);
@@ -1605,12 +1605,12 @@ body.dark .loader_line:after{
 	color: #555;
 }
 .iknow_tm_resume .info_list ul li .short .year span{
-	font-size: 20px;
-	color: #ff451b;
+	font-size: 16px;
+	color: #32a8b2;
 	display: inline-block;
 	border: 1px solid #dddddd;
 	border-radius: 50px;
-	padding: 8px 35px 7px 35px;
+	padding: 8px 25px 7px 25px;
 	white-space: nowrap;
 }
 .iknow_tm_resume .info_list ul ul{
@@ -1689,7 +1689,7 @@ body.dark .loader_line:after{
 	right: 100%;
 	bottom: -5px;
 	transition: all 2s cubic-bezier(0.165, 0.840, 0.440, 1.000);  /* IE 10+ */
-	color: #ff451b;
+	color: #32a8b2;
 	font-family: "Poppins";
 }
 .progress_inner .background{
@@ -1702,7 +1702,7 @@ body.dark .loader_line:after{
 }
 .progress_inner .background .bar_in{
 	height:5px;
-	background:#ff451b;
+	background:#32a8b2;
 	width:0px;
 	overflow:hidden;
 	border-radius: 50px;
@@ -1784,7 +1784,7 @@ body.dark .loader_line:after{
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%,-50%);
-	color: #ff451b;
+	color: #32a8b2;
 	font-size: 30px;
 	font-weight: 400;
 }
@@ -1819,7 +1819,7 @@ body.dark .loader_line:after{
 	margin-right: 0px;
 }
 .iknow_tm_portfolio .portfolio_filter ul li a.current{
-	color: #ff451b;
+	color: #32a8b2;
 }
 .iknow_tm_portfolio .portfolio_filter ul li a{
 	text-decoration: none;
@@ -1834,7 +1834,7 @@ body.dark .loader_line:after{
 	        transition: all .3s ease;
 }
 .iknow_tm_portfolio .portfolio_filter ul li a:hover{
-	color: #ff451b;
+	color: #32a8b2;
 }
 .iknow_tm_portfolio .portfolio_list{
 	width: 100%;
@@ -2005,9 +2005,9 @@ body.dark .loader_line:after{
 }
 .iknow_tm_modalbox .close{
 	position: fixed;
-	left: 100%;
-	top: 0px;
-	margin-left: 20px;
+	left: 95%;
+	top: 10px;
+	margin-left: 0px;
 	z-index: 111111;
 }
 .iknow_tm_modalbox .close a{
@@ -2015,8 +2015,8 @@ body.dark .loader_line:after{
 	color: #fff;
 }
 .iknow_tm_modalbox .close .svg{
-	width: 50px;
-	height: 50px;
+	width: 40px;
+	height: 40px;
 }
 .iknow_tm_modalbox .description_wrap{
 	position: relative;
@@ -2250,7 +2250,7 @@ body.dark .loader_line:after{
 	display: inline-block;
 	width: 107px;
 	height: 107px;
-	background-color: #ffb324;
+	background-color: #32a8b2;
 	border-radius: 100%;
 	position: relative;
 	margin-bottom: 25px;
@@ -2410,12 +2410,12 @@ body.dark .loader_line:after{
 .iknow_tm_testimonials .testimonials_list .right .svg{
 	width: 50px;
 	height: 50px;
-	color: #ffb324;
+	color: #32a8b2;
 }
 .iknow_tm_testimonials .owl-theme .owl-dots .owl-dot span{
 	width: 11px;
 	height: 11px;
-	background-color: #ff451b;
+	background-color: #32a8b2;
 	position: relative;
 	margin: 0px 15px;
 }
@@ -2427,7 +2427,7 @@ body.dark .loader_line:after{
 	left: 1px;
 	right: 1px;
 	border-radius: 100%;
-	border: 2px solid #ffb324;
+	border: 2px solid #32a8b2;
 	z-index: -1;
 	
 	-webkit-transition: all .5s ease;
@@ -2530,7 +2530,7 @@ body.dark .loader_line:after{
 }
 .iknow_tm_news .news_list ul li .details .category a{
 	text-decoration: none;
-	color: #ff451b;
+	color: #32a8b2;
 	font-size: 16px;
 	font-weight: 700;
 }
@@ -2548,7 +2548,7 @@ body.dark .loader_line:after{
 	        transition: all .3s ease;
 }
 .iknow_tm_news .news_list ul li .details .title a:hover{
-	color: #ff451b;
+	color: #32a8b2;
 }
 .iknow_tm_news .news_informations{
 	display: none;
@@ -2657,7 +2657,7 @@ body.dark .loader_line:after{
 	height: 90px;
 	min-width: 90px;
 	border-radius: 100%;
-	background-color: #ffb324;
+	background-color: #32a8b2;
 }
 .iknow_tm_contact .wrapper .left ul li .list_inner .icon .svg{
 	position: absolute;
@@ -2687,7 +2687,7 @@ body.dark .loader_line:after{
 	        transition: all .3s ease;
 }
 .iknow_tm_contact .wrapper .left ul li .list_inner .short span a:hover{
-	color: #ff451b;
+	color: #32a8b2;
 }
 .iknow_tm_contact .wrapper .right{
 	width: 65%;
@@ -2812,7 +2812,7 @@ input[type=number] {
 	        transition: all .3s ease;
 }
 .iknow_tm_copyright .left a:hover{
-	color: #ff451b;
+	color: #32a8b2;
 }
 .iknow_tm_copyright .right ul{
 	margin: 0px;
@@ -2836,7 +2836,7 @@ input[type=number] {
 	        transition: all .3s ease;
 }
 .iknow_tm_copyright .right ul li a:hover{
-	color: #ff451b;
+	color: #32a8b2;
 }
 .iknow_tm_copyright.fixed{
 	position: fixed;
@@ -2883,7 +2883,7 @@ input[type=number] {
 }
 .iknow_tm_hero_second .subtitle{
 	display: inline-block;
-	color: #ff451b;
+	color: #32a8b2;
 	font-size: 30px;
 	font-weight: 700;
 	margin-bottom: 5px;
@@ -2950,7 +2950,7 @@ input[type=number] {
 .iknow_tm_hero_second .right .image .first{
 	width: 90px;
 	height: 90px;
-	background-color: #ff451b;
+	background-color: #32a8b2;
 	top: 20px;
 	left: -5px;
 	transform: rotate(42deg);
@@ -2959,7 +2959,7 @@ input[type=number] {
 .iknow_tm_hero_second .right .image .second{
 	width: 105px;
 	height: 152px;
-	background-color: #ffb324;
+	background-color: #32a8b2;
 	bottom: -5px;
 	left: -25px;
 	z-index: 2;
@@ -2967,7 +2967,7 @@ input[type=number] {
 .iknow_tm_hero_second .right .image .third{
 	width: 165px;
 	height: 365px;
-	background-color: #ffb324;
+	background-color: #32a8b2;
 	top: -30px;
 	right: -30px;
 }
@@ -3038,10 +3038,10 @@ input[type=number] {
 	        transition: all .3s ease;
 }
 .iknow_tm_extra_menu .list_in .list_icon{
-	background-color: #ff451b;
+	background-color: #32a8b2;
 }
 .iknow_tm_extra_menu .list_in .down_icon{
-	background-color: #ffb324;
+	background-color: #32a8b2;
 }
 .iknow_tm_extra_menu .list_in .center{
 	width: 100%;
@@ -3103,11 +3103,11 @@ input[type=number] {
 }
 .iknow_tm_extra_menu .menu_list .unordered .unorderest_li.opened .list_in .list_icon,
 .iknow_tm_extra_menu .menu_list .unordered .unorderest_li .list_in:hover .list_icon{
-	background-color: #ffb324;
+	background-color: #32a8b2;
 }
 .iknow_tm_extra_menu .menu_list .unordered .unorderest_li.opened .list_in .center,
 .iknow_tm_extra_menu .menu_list .unordered .unorderest_li .list_in:hover .center{
-	background-color: #ff451b;
+	background-color: #32a8b2;
 }
 .iknow_tm_extra_menu .menu_list .unordered .unorderest_li.opened .list_in .center span,
 .iknow_tm_extra_menu .menu_list .unordered .unorderest_li .list_in:hover .center span{
@@ -3196,7 +3196,7 @@ input[type=number] {
 .iknow_tm_fixed_content .menubar ul li .svg{
 	width: 27px;
 	height: 27px;
-	color: #ff451b;
+	color: #32a8b2;
 	position: absolute;
 	top: 50%;
 	transform: translateY(-50%);
@@ -3544,7 +3544,7 @@ input[type=number] {
   width: 6px;
   height: 6px;
   z-index: 100;
-  background-color: #ff451b;
+  background-color: #32a8b2;
   -webkit-transition: width .3s ease-in-out, height .3s ease-in-out, margin .3s ease-in-out, opacity .3s ease-in-out;
   transition: width .3s ease-in-out, height .3s ease-in-out, margin .3s ease-in-out, opacity .3s ease-in-out;
 }
@@ -3553,7 +3553,7 @@ input[type=number] {
   margin-top: -40px;
   width: 80px;
   height: 80px;
-  background-color: #ff451b;
+  background-color: #32a8b2;
   opacity: .3;
 }
 .cursor-outer {
@@ -3561,7 +3561,7 @@ input[type=number] {
   margin-top: -15px;
   width: 30px;
   height: 30px;
-  border: 2px solid #ff451b;
+  border: 2px solid #32a8b2;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   z-index: 100;
@@ -3665,12 +3665,12 @@ input[type=number] {
 	color: #222;
 }
 .iknow_tm_sidebar_2 .menu ul li.mleave.active .svg{
-	color: #ff451b;
+	color: #32a8b2;
 }
 .iknow_tm_sidebar_2 .menu ul li .svg{
 	width: 27px;
 	height: 27px;
-	color: #ff451b;
+	color: #32a8b2;
 	position: absolute;
 	top: 50%;
 	transform: translateY(-50%);
@@ -3935,15 +3935,15 @@ input[type=number] {
 	bottom: 30px !important;
 	left: 30px !important;
 	right: -30px !important;
-	background-color: #ffb324;
+	background-color: #32a8b2;
 	border-radius: 15px;
 	z-index: 1;
 }
 .iknow_tm_button.yellow a{
-	background-color: #ffb324;
+	background-color: #32a8b2;
 }
 .iknow_tm_button.yellow a:hover{
-	background-color: #ff451b;
+	background-color: #32a8b2;
 }
 
 /*---------------------------------------------------*/
@@ -4020,7 +4020,7 @@ input[type=number] {
 	bottom: 10px;
 	border-radius: 20px;
 	border-radius: 50px;
-	background-color: #ffb324;
+	background-color: #32a8b2;
 	z-index: -1;
 	
 	-webkit-transition: all .5s ease;
@@ -4232,15 +4232,15 @@ input[type=number] {
 	width: 100%;
 }
 .iknow_tm_sidebar_3 .menu ul li.current span{
-	color: #ff451b;
+	color: #32a8b2;
 }
 .iknow_tm_sidebar_3 .menu ul li:hover span{
-	color: #ff451b;
+	color: #32a8b2;
 }
 .iknow_tm_sidebar_3 .menu ul li .svg{
 	width: 25px;
 	height: 25px;
-	color: #ff451b;
+	color: #32a8b2;
 	position: absolute;
 	left: 40px;
 }
@@ -4312,7 +4312,7 @@ input[type=number] {
 }
 .iknow_tm_hero_third .content .hello{
 	font-weight: 700;
-	color: #ff451b;
+	color: #32a8b2;
 	font-size: 26px;
 	display: inline-block;
 	margin-bottom: 2px;
@@ -4438,7 +4438,7 @@ input[type=number] {
 }
 .iknow_tm_hero_fourth .content .right .hello{
 	font-weight: 700;
-	color: #ff451b;
+	color: #32a8b2;
 	font-size: 26px;
 	display: inline-block;
 	margin-bottom: 2px;
@@ -4565,7 +4565,7 @@ input[type=number] {
 }
 .iknow_tm_hero_fifth .hello{
 	font-weight: 700;
-	color: #ff451b;
+	color: #32a8b2;
 	font-size: 26px;
 	display: inline-block;
 	margin-bottom: 2px;
@@ -4651,7 +4651,7 @@ input[type=number] {
 .iknow_tm_mainpart_new_2 .main_menu ul li .svg{
 	width: 25px;
 	height: 25px;
-	color: #ff451b;
+	color: #32a8b2;
 	display: block;
 	
 	-webkit-transition: all .3s ease;
@@ -4689,7 +4689,7 @@ input[type=number] {
 	color: #fff;
 }
 .iknow_tm_mainpart_new_2 .main_menu ul li.current{
-	background-color: #ff451b;
+	background-color: #32a8b2;
 }
 
 /*---------------------------------------------------*/
@@ -4886,8 +4886,8 @@ input[type=number] {
 	.iknow_tm_topbar .wrapper .menu ul{display: flex;flex-direction: column;}
 	.iknow_tm_topbar .wrapper .menu ul li a{display: block;}
 	.iknow_tm_topbar .wrapper .menu .ccc{display: none;}
-	.iknow_tm_topbar .wrapper .menu ul li.active a{color: #ff451b;}
-	.iknow_tm_topbar .wrapper .menu ul li a:hover{color: #ff451b;}
+	.iknow_tm_topbar .wrapper .menu ul li.active a{color: #32a8b2;}
+	.iknow_tm_topbar .wrapper .menu ul li a:hover{color: #32a8b2;}
 	.iknow_tm_topbar .wrapper .menu ul li a{padding: 6px 15px 5px 15px;}
 	.iknow_tm_animate_section .section_inner{padding: 50px 20px;}
 	.iknow_tm_hero_fourth .content{flex-direction: column;justify-content: center;text-align: center;padding: 0px 20px;}
