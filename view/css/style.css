@@ -684,7 +684,8 @@ body.dark .loader_line:after{
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
-	border-radius: 15px;
+	border-radius: 15px;me c
+	border: 8px solid rgb(233 233 233 / 65%);
 }
 .iknow_tm_hero .right .image .main:before{
 	position: absolute;
