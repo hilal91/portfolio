@@ -1,31 +1,20 @@
 @charset "utf-8";
 
-/*
-/*	Copyright (c) 2021 Marketify
-/*	Author: Marketify
-/*	This file is made for CURRENT TEMPLATE
-
-01)	IKNOW BASE
-02)	IKNOW TOPBAR
-03) IKNOW IKNOW HERO 1
-04) IKNOW HERO ICONS
-05) IKNOW ABOUT
-06) IKNOW RESUME
-07) IKNOW PORTFOLIO
-08) IKNOW SERVICES
-09) IKNOW TESTIMONIALS
-10) IKNOW NEWS
-11) IKNOW CONTACT
-12) IKNOW COPYRIGHT
-13) IKNOW HERO 2
-14) IKNOW EXTRA MENU
-15) IKNOW HOME 3
-16) IKNOW CURSOR
-17) IKNOW DEMO 4
-18) IKNOW DEMO 5
-19) IKNOW DEMO 6
-20) IKNOW DEMO 7
-21) IKNOW MEDIA QUERIES (FOR SMALL DEVICES)
+01)	 BASE
+02)	 TOPBAR
+03)   HERO 1
+04)  HERO ICONS
+05)  ABOUT
+06)  RESUME
+07)  PORTFOLIO
+08)  SERVICES
+09)  TESTIMONIALS
+10)  NEWS
+11)  CONTACT
+12)  COPYRIGHT
+14)  EXTRA MENU
+16)  CURSOR
+21)  MEDIA QUERIES (FOR SMALL DEVICES)
 
 /*---------------------------------------------------*/
 /*	01) IKNOW BASE
@@ -2013,7 +2002,7 @@ body.dark .loader_line:after{
 }
 .iknow_tm_modalbox .close a{
 	text-decoration: none;
-	color: #fff;
+	color: #000000;
 }
 .iknow_tm_modalbox .close .svg{
 	width: 40px;
