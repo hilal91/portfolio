@@ -428,7 +428,7 @@ body.dark .loader_line:after{
 	list-style-type: none;
 }
 .iknow_tm_topbar .right .social ul li{
-	margin: 0px 15px 0px 0px;
+	margin: 0px 20px 0px 0px;
 	display: inline-block;
 }
 .iknow_tm_topbar .right .social ul li:last-child{
@@ -437,10 +437,15 @@ body.dark .loader_line:after{
 .iknow_tm_topbar .right .social ul li a{
 	text-decoration: none;
 	color: #000;
+	filter: grayscale(1);
+	transition: filter easein 0.3s;
+}
+.iknow_tm_topbar .right .social ul li a:hover, .iknow_tm_topbar .right .social ul li a:focus{
+	filter: grayscale(0);
 }
 .iknow_tm_topbar .right .social ul li .svg{
-	width: 20px;
-	height: 20px;
+	width: 26px;
+	height: 26px;
 	display: block;
 }
 .iknow_tm_button{
